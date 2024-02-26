@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://abhikumawat.io](https://meet-380.pages.dev/))
+[![MasterHead](https://media.licdn.com/dms/image/sync/D4E27AQG3pW1761tK6g/articleshare-shrink_800/0/1708916867686?e=1709568000&v=beta&t=pECrho8xUpA7ecPxNwFLavg-JmdMN4I2Zj_43_u3Oqs)]([https://meet-380.pages.dev])
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumawat</h1>
 <h3 align="center">I build and optimize modern enterprise applications and API platforms using latest technologies to create scalable and reliable solutions.</h3>
 <!-- IMAGE PROGRAMMER -->
