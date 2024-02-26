@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/sync/D4E27AQG3pW1761tK6g/articleshare-shrink_800/0/1708916867686?e=1709568000&v=beta&t=pECrho8xUpA7ecPxNwFLavg-JmdMN4I2Zj_43_u3Oqs)]([https://meet-380.pages.dev])
+<img align="right" width="400" src="https://media.licdn.com/dms/image/sync/D4E27AQG3pW1761tK6g/articleshare-shrink_800/0/1708916867686?e=1709568000&v=beta&t=pECrho8xUpA7ecPxNwFLavg-JmdMN4I2Zj_43_u3Oqs" alt="programmer" href="https://meet-380.pages.dev">
+
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumawat</h1>
 <h3 align="center">I build and optimize modern enterprise applications and API platforms using latest technologies to create scalable and reliable solutions.</h3>
 <!-- IMAGE PROGRAMMER -->
