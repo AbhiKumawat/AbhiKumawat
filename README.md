@@ -1,10 +1,7 @@
-<img align="right" width="400" src="https://media.licdn.com/dms/image/sync/D4E27AQG3pW1761tK6g/articleshare-shrink_800/0/1708916867686?e=1709568000&v=beta&t=pECrho8xUpA7ecPxNwFLavg-JmdMN4I2Zj_43_u3Oqs" alt="programmer" href="https://meet-380.pages.dev">
-
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumawat</h1>
 <h3 align="center">I build and optimize modern enterprise applications and API platforms using latest technologies to create scalable and reliable solutions.</h3>
 <!-- IMAGE PROGRAMMER -->
-<img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="programmer">
-
+<img align="right" width="400" src="https://media.licdn.com/dms/image/sync/D4E27AQG3pW1761tK6g/articleshare-shrink_800/0/1708916867686?e=1709568000&v=beta&t=pECrho8xUpA7ecPxNwFLavg-JmdMN4I2Zj_43_u3Oqs" alt="programmer" href="https://meet-380.pages.dev">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhikumawat&label=Profile%20views&color=0e75b6&style=flat" alt="abhikumawat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
